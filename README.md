@@ -1,2 +1,25 @@
 # machine_learning_study
-# machine_learning_study
+
+### 생활코딩 > 데이터 과학 > 머신러닝 1
+
+- [x] 오리엔테이션  
+- [x] 머신러닝이란?
+- [x] 꿈
+- [x] 궁리하는 습관
+- [ ] Techable Machine
+- [ ] 모델 Model
+- [ ] 머신러닝머신
+- [ ] 나도 이제 프로그래머
+- [ ] 모르면 마법, 알면 기술
+- [ ] 교양의 끝
+- [ ] 직업의 시작
+- [ ] 표
+- [ ] 독립변수와 종속변수
+- [ ] 심리전
+- [ ] 머신러닝의 분류 
+- [ ] 지도학습 Supervised Learning
+- [ ] 회귀 vs 분류
+- [ ] 비지도 학습
+- [ ] 강화학습 Reinforcement Learning 
+- [ ] 나에게 필요한 머신러닝을 찾아내는 방법
+- [ ] 수업을 마치며
